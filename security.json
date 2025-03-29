@@ -1,0 +1,9 @@
+{
+    "users": {
+        "admin": {
+            "password_hash": "7496045e2cd9b6dfa361ef8560931dc9a83c2db1370a02bc3099cd7b1c1ea227",
+            "salt": "bbc1693c16b76265fcf6c5efbd185d69",
+            "is_admin": true
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "allowed_users": ["Administrator"],
+    "blocked_syscalls": [],
+    "monitoring_rules": {
+        "file_access": true,
+        "network_access": true,
+        "process_creation": true,
+        "registry_access": true
+    },
+    "alert_thresholds": {
+        "cpu_usage": 90,
+        "memory_usage": 90,
+        "syscalls_per_second": 1000
+    }
+}

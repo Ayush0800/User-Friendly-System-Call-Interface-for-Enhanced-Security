@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+PyQtChart==5.15.6
+psutil==5.9.8
+pywin32==310; platform_system == "Windows"
