@@ -12138,3 +12138,31 @@ AttributeError: 'popenfile' object has no attribute 'mode'
 2025-03-29 13:29:41,471 - monitor.syscall_monitor - INFO - Started monitoring 1 processes
 2025-03-29 13:29:57,504 - monitor.syscall_monitor - INFO - Stopped monitoring all processes
 2025-03-29 13:30:46,206 - monitor.syscall_monitor - INFO - Stopped monitoring all processes
+2025-03-30 00:11:26,529 - __main__ - DEBUG - Checking administrator privileges
+2025-03-30 00:11:26,530 - __main__ - DEBUG - Administrator privileges confirmed
+2025-03-30 00:11:26,530 - __main__ - DEBUG - Initializing QApplication
+2025-03-30 00:11:26,570 - __main__ - DEBUG - Creating main window
+2025-03-30 00:11:45,956 - security.auth - INFO - User admin authenticated successfully
+2025-03-30 00:11:45,986 - frontend.main_window - INFO - User admin logged in successfully
+2025-03-30 00:11:45,990 - __main__ - DEBUG - Showing main window
+2025-03-30 00:11:46,036 - __main__ - DEBUG - Entering Qt event loop
+2025-03-30 00:12:02,893 - monitor.syscall_monitor - INFO - Started monitoring 1 processes
+2025-03-30 00:12:03,431 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:03,438 - monitor.syscall_monitor - ERROR - Error in security monitoring: string indices must be integers, not 'str'
+2025-03-30 00:12:04,724 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:06,006 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:07,246 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:08,427 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:08,586 - monitor.syscall_monitor - ERROR - Error in security monitoring: string indices must be integers, not 'str'
+2025-03-30 00:12:09,591 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:10,794 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:11,954 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:13,117 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:13,748 - monitor.syscall_monitor - ERROR - Error in security monitoring: string indices must be integers, not 'str'
+2025-03-30 00:12:14,275 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:15,567 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:16,962 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:18,175 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:19,099 - monitor.syscall_monitor - ERROR - Error in security monitoring: string indices must be integers, not 'str'
+2025-03-30 00:12:19,331 - root - ERROR - Error accessing file mode: 'popenfile' object has no attribute 'mode'
+2025-03-30 00:12:20,456 - monitor.syscall_monitor - INFO - Stopped monitoring all processes
