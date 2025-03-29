@@ -49,12 +49,12 @@ python src/main.py
 - **Password:** admin123
 
 ## Login Interface
-Below is the login screen users will see when launching the application:
+
 ![Login](https://github.com/user-attachments/assets/73f5f40c-8e40-41f8-8508-9b8dca102a9a)
 
 
 ## System Call Monitoring Dashboard
-Once logged in, users can monitor system calls in real-time through the dashboard:
+
 ![Dashboard](https://github.com/user-attachments/assets/ff51bee7-cbec-4dd2-9062-24841677b6e8)
 
 ## File Structure
