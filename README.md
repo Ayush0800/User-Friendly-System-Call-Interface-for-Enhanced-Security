@@ -51,11 +51,10 @@ python src/main.py
 ## Login Interface
 Below is the login screen users will see when launching the application:
 
-![Login Screen](https://github.com/Ayush0800/User-Friendly-System-Call-Interface-for-Enhanced-Security/blob/main/screenshots/login_screen.png)
+![Login Screen](https://github.com/Ayush0800/User-Friendly-System-Call-Interface-for-Enhanced-Security/blob/main/screenshots/login.png)
 
 ## System Call Monitoring Dashboard
 Once logged in, users can monitor system calls in real-time through the dashboard:
-![Login](https://github.com/user-attachments/assets/3e11e017-44b1-4acc-851b-a616e1056d81)
 
 ![Dashboard](https://github.com/Ayush0800/User-Friendly-System-Call-Interface-for-Enhanced-Security/blob/main/screenshots/dashboard.png)
 
