@@ -95,9 +95,5 @@ Logs are stored in `syscall_monitor.log` located in the project directory. It ca
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
 
-## License
-MIT License
 
-## Author
-**Ayush Kumar**
 
